@@ -1,5 +1,5 @@
 # Site settings
-title: My Blog
+title: Hi Hsiaosung
 SEOTitle: Hsiaosung的博客 | My Blog
 header-img: img/post-bg-rwd.jpg
 email: qixiaosong@gmail.com
@@ -67,8 +67,8 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-#ba_track_id: b50bf2b12b5338a1845e33832976fd68
-
+ba_track_id: 9080099d326d62690f200358f3bfdaf6
+              
 # Google Analytics
 #ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
 #ga_domain: auto
