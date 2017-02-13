@@ -95,10 +95,10 @@ friends: [
         title: "简书",
         href: "http://www.jianshu.com/users/f237a6c99f68/timeline"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "快搜",
+        href: "http://search.chongbuluo.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Github",
+        href: "https://github.com/"
     }
 ]
